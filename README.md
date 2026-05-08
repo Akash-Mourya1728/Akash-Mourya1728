@@ -105,7 +105,7 @@
 
 ### 🔥 My Portfolio
 > Check out my full visual portfolio here:  
-🌐 **[Akash-Mourya1728](https://github.com/Akash-Mourya1728)**
+🌐 **[Akash-Mourya1728]([https://github.com/Akash-Mourya1728](https://akash-mourya1728.github.io/Portfolio/))**
 > 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
